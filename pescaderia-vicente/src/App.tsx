@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          ACA PROBANDO CON LAS BRANCHES
         </a>
       </header>
     </div>
